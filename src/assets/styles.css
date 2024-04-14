@@ -1,0 +1,18 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* styles.css */
+
+.app {
+  /* Gradient background */
+  background: linear-gradient(to bottom, #f7cac9, #ffb6c1);
+  /* Fallback for older browsers */
+  background: -webkit-linear-gradient(top, #f7cac9, #ffb6c1);
+  /* Full height */
+  height: 100vh;
+  /* Optional: Center content */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
