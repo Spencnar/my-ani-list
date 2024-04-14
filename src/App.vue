@@ -13,7 +13,7 @@ import '@/assets/styles.css'
 
       <nav>
         <RouterLink to="/">Home</RouterLink>
-        <RouterLink to="/about">About</RouterLink>
+        <RouterLink to="/anime-picker">Anime Picker</RouterLink>
       </nav>
     </div>
   </header>
